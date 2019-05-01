@@ -1,0 +1,17 @@
+commit ed7dd26b686eb4baa7d1854760b46d9653aab252
+Author: Miguel <miguelempleo@yahoo.es>
+Date:   Wed May 1 19:36:49 2019 +0200
+
+    A mi manera
+
+commit 7bbc1e51901c8d2a135e5d2143aec1271f33177b
+Author: Miguel <miguelempleo@yahoo.es>
+Date:   Wed May 1 19:33:33 2019 +0200
+
+    Fecha de hoy
+
+commit d4e7040b7cd7fce4d5fb6b661e57849792b682de
+Author: Miguel <miguelempleo@yahoo.es>
+Date:   Wed May 1 19:30:32 2019 +0200
+
+    STARTEANDO
